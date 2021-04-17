@@ -1,0 +1,1 @@
+This is Leighton's first git project!
